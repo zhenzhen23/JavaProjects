@@ -1,0 +1,64 @@
+
+
+BorderPane{
+    -fx-background-image: url("/img/bgimg.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 100%;
+}
+
+#countDay{
+    -fx-font-family: "Algerian";
+    -fx-font-size: 22pt;
+    -fx-border-color: black;
+    -fx-border-radius: 5;
+    -fx-border-width: 3;
+}
+
+#playerInfo{   
+    -fx-font-family: "Algerian";
+    -fx-font-size: 15pt;
+    -fx-border-color: black;
+    -fx-border-radius: 5;
+    -fx-border-width: 3;
+}
+
+#btnCard{
+    -fx-font: bold 22pt "Algerian";
+    -fx-text-fill: white;
+    -fx-border-color: white;
+    -fx-border-width: 3;
+    -fx-background-color: lightblue;
+    -fx-border-radius: 5;
+}
+
+#btnFood{
+    -fx-font: bold 22pt "Algerian";
+    -fx-text-fill: white;
+    -fx-border-color: white;
+    -fx-border-width: 3;
+    -fx-background-color: green;
+    -fx-border-radius: 5;
+
+}
+
+#btnSleep{
+    -fx-font: bold 22pt "Algerian";
+    -fx-text-fill: white;
+    -fx-border-color: white;
+    -fx-border-width: 3;
+    -fx-background-color: brown;
+    -fx-border-radius: 5;
+}
+
+#btnBackToGame, #btnBackToStartPage, #btnCloseGame_Menu, #btnClose_energy, #btnClose_gameOver{
+    -fx-font-family: "Algerian";
+    -fx-font-size: 12pt;
+    -fx-text-fill: white;
+    -fx-background-color: black;
+}
+
+#message_energy, #message_gameOver{
+    -fx-font-family: "Algerian";
+    -fx-font-size: 22pt;
+    -fx-text-fill: red;
+}

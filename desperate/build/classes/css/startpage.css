@@ -1,0 +1,79 @@
+
+
+#startPage_Bp{
+    -fx-background-image: url("/img/startPage.jpg");
+    -fx-background-size: 100%;
+    -fx-background-repeat: no-repeat;
+}
+
+#loadStage_Bp{
+    -fx-background-image: url("/img/loadPage.jpg");
+    -fx-background-size: 150%;
+    -fx-background-repeat: no-repeat;
+}
+
+#title {
+    -fx-font-family: "Algerian";
+    -fx-font-size: 28pt;
+}
+
+#subTitle {
+    -fx-font-family: "Algerian";
+    -fx-font-size: 16pt;
+    -fx-text-fill: red;
+}
+
+#btnInfo{
+    -fx-font-family: "Algerian";
+    -fx-font-size: 12pt;
+    -fx-text-fill: white;
+    -fx-background-color: black;
+}
+
+#btnStart, #btnContinue, #btnContinue, #btnCloseGame_startPage, #btnContinue_load, #btnClose_load{
+    -fx-font-family: "Algerian";
+    -fx-font-size: 16pt;
+    -fx-text-fill: white;
+    -fx-background-color: black;
+}
+
+#btnContinue_load, #btnClose_load{
+    -fx-font-family: "Algerian";
+    -fx-font-size: 12pt;
+    -fx-text-fill: white;
+    -fx-background-color: black;
+}
+
+#storyTitle, #helpTitle{    
+    -fx-font-family: "Algerian";
+    -fx-font-size: 20pt;
+    -fx-text-fill: black;    
+}
+
+#bgStory, #help{
+    -fx-font-family: "Algerian";
+    -fx-font-size: 14pt;
+    -fx-text-fill: red;
+    -fx-text-alignment: center;
+}
+
+#btnClose_info {
+    -fx-font-family: "Algerian";
+    -fx-font-size: 12pt;
+    -fx-text-fill: white;
+    -fx-background-color: black;
+}
+
+#btnClose_save {
+    -fx-font-family: "Algerian";
+    -fx-font-size: 12pt;
+    -fx-text-fill: white;
+    -fx-background-color: black;
+}
+
+#btnStart_save {
+    -fx-font-family: "Algerian";
+    -fx-font-size: 12pt;
+    -fx-text-fill: white;
+    -fx-background-color: black;
+}
