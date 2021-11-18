@@ -1,0 +1,11 @@
+.label {
+    -fx-font-weight: bold; 
+    -fx-text-fill: navy;
+    -fx-padding: 0 10 0 0;
+}
+#balance {
+    -fx-font-size:200%;
+}
+#balance2 {
+    -fx-font-size:150%;
+}
